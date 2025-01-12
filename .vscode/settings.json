@@ -1,0 +1,8 @@
+{
+    "Lua.runtime.version": "LuaJIT",
+    "Lua.workspace.library": [
+        "../smods-main",
+        "../lovely/dump",
+        "${3rd}/love2d/library"
+    ]
+}

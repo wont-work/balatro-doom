@@ -1,0 +1,8 @@
+{
+    "id": "doom",
+    "name": "Doom",
+    "author": ["Kopper <https://w.on-t.work>"],
+    "description": "rip and tear",
+    "prefix": "doom",
+    "main_file": "main.lua"
+}
